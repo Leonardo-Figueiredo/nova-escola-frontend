@@ -1,5 +1,5 @@
 # Frontend construído para consumir a API REST do desafio.
-
+Foi utilizado ReactJS, Typescript e o StyledComponents.
 
 ## Executar Localmente:
 
